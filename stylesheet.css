@@ -1,0 +1,22 @@
+body{
+    background-color: #FFF;
+  }
+  hr{
+    border-color: grey;
+    border-style: none;
+    width: 5%;
+    border-top-style: dotted;
+    border-top-width: 5px;
+  }
+  .p{
+    border-style: solid;
+  }
+  td{
+    border-style: none;
+  }
+  th{
+    border-style: none;
+  }
+  h2{
+      color: rgb(32, 29, 29);
+  }
